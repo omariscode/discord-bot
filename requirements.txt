@@ -1,0 +1,5 @@
+Python3
+discord
+subprocess
+os
+tempfile
